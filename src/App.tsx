@@ -832,9 +832,10 @@ export default function App() {
         shutDownStage === 'grayscale' ? 'filter grayscale contrast-125 brightness-75' : ''
       } ${shutDownStage === 'off' ? 'bg-black pointer-events-none' : ''}`}
       style={{
-        backgroundImage: 'url("/public/images/bliss.jpg")',
+        backgroundImage: 'url("/images/bliss.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
+        backgroundColor: '#004E98',
         fontFamily: 'Tahoma, Arial, sans-serif'
       }}
       onMouseMove={handleDesktopMouseMove}

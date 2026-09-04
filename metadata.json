@@ -1,0 +1,8 @@
+{
+  "name": "NALLUKUMAR R - Windows XP Portfolio",
+  "description": "Windows XP styled interactive developer portfolio showcasing projects, resume, games, and terminal",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
